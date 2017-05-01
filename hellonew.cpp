@@ -9,10 +9,10 @@ int main()
 {
     int a;
     int b;
-    cout << "Enter a number: " << endl;
+    cout << "Enter first number: " << endl;
     cin >> a;
     cout << a << endl;
-    cout << "Enter another number: " << endl;
+    cout << "Enter second number: " << endl;
     cin >> b;
     cout << b << endl;
     cout << add(a,b);
