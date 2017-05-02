@@ -7,6 +7,7 @@ int add(int x, int y);
 
 int main()
 {
+    cout << "This is a test program" << endl;
     int a;
     int b;
     cout << "Enter first number: " << endl;
