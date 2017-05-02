@@ -15,7 +15,7 @@ int main()
     cout << "Enter second number: " << endl;
     cin >> b;
     cout << b << endl;
-    int c = add(a,b);
+    cout << add(a,b);
 	
 	return 0;
 }
